@@ -6,16 +6,16 @@
     "test": "npm run lint"
   },
   "dependencies": {
-    "babel-preset-silk-node4": "^0.17.0",
+    "babel-preset-silk-node4": "^1.0.0",
     "opencv": "^5.0.0",
-    "silk": "^0.17.0",
-    "silk-buildjs": "^0.17.0",
-    "silk-log": "^0.17.0"
+    "silk": "^1.0.0",
+    "silk-buildjs": "^1.0.0",
+    "silk-log": "^1.0.0"
   },
   "devDependencies": {
     "copy-webpack-plugin": "2.1.5",
     "babel-eslint": "^6.0.4",
     "eslint": "^1.10.3",
-    "eslint-config-silk": "^0.17.0"
+    "eslint-config-silk": "^1.0.0"
   }
 }
